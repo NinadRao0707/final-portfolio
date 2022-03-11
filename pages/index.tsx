@@ -12,6 +12,11 @@ const Home: NextPage = () => {
       <Head>
         <title>Ninad Rao | Resume</title>
         <link rel="icon" href="/favicon.ico" />
+        <script
+          defer
+          data-domain="final-portfolio-five.vercel.app"
+          src="https://plausible.io/js/plausible.js"
+        ></script>
       </Head>
       <ProfileCard></ProfileCard>
       <FeaturedProjects></FeaturedProjects>
