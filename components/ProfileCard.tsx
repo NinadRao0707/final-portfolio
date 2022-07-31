@@ -9,7 +9,7 @@ function ProfileCard() {
           <div className="mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:h-full lg:p-0 lg:pt-6">
             <div className="aspect-w-10 aspect-h-6 sm:aspect-w-16 sm:aspect-h-7 lg:aspect-none overflow-hidden lg:h-full">
               <img
-                src="/images/Profile.png"
+                src="/images/profile pic.jpg"
                 alt="Profile Picture"
                 width={1000}
                 height={1000}
@@ -33,12 +33,12 @@ function ProfileCard() {
               <footer className="mt-6">
                 <p className="text-base font-medium text-white">Ninad Rao</p>
                 <p className="text-base font-medium text-cyan-100">
-                  Front-End Web Developer
+                  Student | Web Developer
                 </p>
               </footer>
             </blockquote>
             <a
-              href="/Ninad_Rao.pdf"
+              href="/Ninad Rao.pdf"
               target="_blank"
               rel="noopener"
               className="mt-6 inline-flex items-center justify-center rounded-md border border-cyan-700 p-2 font-medium text-cyan-50 filter hover:border-white hover:text-white hover:brightness-110 dark:border-green-400"

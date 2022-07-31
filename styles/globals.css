@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+p, a, h3, time {
+    font-family: 'Roboto Slab', serif;
+}
